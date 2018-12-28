@@ -1,8 +1,12 @@
+*{
+	font-family: Verdana;
+}
 body{
-	background-color:lightblue;
+	background-color: #4A8BFF;
 }
 h1{
 	color: white;
+	text-align: center;
 }
 .heading{
 
