@@ -3,11 +3,23 @@
 }
 body{
 	background-color: #4A8BFF;
+	height: 100%;
+	width: 100%;
 }
 h1{
 	color: white;
 	text-align: center;
 }
 .heading{
-
+	display: block;
+	z-index: 1;
+	position: fixed;
+	width: 100%
+	text-align: center;
+	transition: all 0.3s;
+}
+.interface{
+	width: 640px;
+	height: 640px;
+	margin: 20px 0 0 400px;
 }
